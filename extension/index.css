@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	padding: 10px;
 	font-family: Arial, Helvetica, sans-serif;
-	min-width: 400px;
+	min-width: 424.5px;
 	border: 1px solid #EDD01C;
 }
 input {
@@ -36,4 +36,9 @@ li a {
 }
 #clear-btn {
 	background-color: red;
+}
+.team-img {
+	width:  100px;
+	border-radius: 100%;
+	margin: 10px;
 }
